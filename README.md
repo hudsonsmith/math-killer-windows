@@ -26,8 +26,8 @@
  
  Then run it with python3.
  ```bash
- cd math-killer-windows/
- python3 main.py
+ cd .\math-killer-windows\
+ python main.py
  ```
 
  Enjoy!
