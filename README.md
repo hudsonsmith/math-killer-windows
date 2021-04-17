@@ -42,4 +42,3 @@
  <img src="math-killer-end.png" alt="failing in the math killer game" width="1400"/>
 
  <img src="math-killer-problem.png" alt="getting a problem right in math-killer" width="1400"/>
- 
